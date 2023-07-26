@@ -1,0 +1,40 @@
+    
+    body {
+      text-align: center;
+      margin-top: 200px;
+      background-color: black;
+    }
+    label {
+      font-weight: bold;
+      font-size: 20px;
+    }
+    input {
+      width: 100px;
+      height: 30px;
+    }
+    button {
+      margin-top: 10px;
+      width: 100px;
+      height: 50px;
+      border-radius: 30px;
+      background-color: black;
+      color: white;
+      font-size: 20px;
+      font-family:nunito,roboto,proxima-nova,"proxima nova",sans-serif; 
+      box-shadow: rgba(99, 97, 97, 0.1) 0px 7px 10px;
+      cursor: pointer;
+    }
+    button:hover{
+        background-color:rgb(122, 119, 119);
+        color: black;
+    }
+
+    .container{
+        background-color: rgb(183, 174, 174);
+        height: 40vh;
+        width: 80vh;
+        margin-left: 530px;
+    }
+    h1{
+        padding-top: 40px;
+    }
